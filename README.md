@@ -1,5 +1,6 @@
 # ICDM2015
 
+<<<<<<< HEAD
 ICDM 2015 Drawbridge Cross-Device Connections Challenge: Third Prize Solution
 
 Instalation:
@@ -153,3 +154,7 @@ Using these sets we have created the following features:
 
 
 
+=======
+The code will be available after the ICDM 2015 conference.
+==========
+>>>>>>> e6ca24ecce5a5c6791dc09118fb96f69f28e3511
