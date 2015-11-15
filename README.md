@@ -1,6 +1,5 @@
 # ICDM2015
 
-<<<<<<< HEAD
 ICDM 2015 Drawbridge Cross-Device Connections Challenge: Third Prize Solution
 
 Instalation:
@@ -151,10 +150,3 @@ Using these sets we have created the following features:
  * Addition of features Frequency Count, Count 1, Count 2, Count 3, Count 4 and Count 5 of the device’s IP addresses in setIP minus addition of features Frequency Count, Count 1, Count 2, Count 3, Count 4 and Count 5 of the cookie’s IP addresses in setIP.
 
 
-
-
-
-=======
-The code will be available after the ICDM 2015 conference.
-==========
->>>>>>> e6ca24ecce5a5c6791dc09118fb96f69f28e3511
